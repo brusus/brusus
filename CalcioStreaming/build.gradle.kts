@@ -6,8 +6,8 @@ cloudstream {
     language = "it"
     // All of these properties are optional, you can safely remove them
 
-     description = "Live streams from the CalcioStreaming. Forked from the CalcioStreaming plugin in the ItalianProvider repo"
-    authors = listOf("Gian-Fr","Adippe","doGior")
+     description = "Live streams da CalcioStreaming"
+    authors = listOf("doGior","DieGon")
 
     /**
      * Status int as the following:
