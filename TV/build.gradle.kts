@@ -4,8 +4,8 @@ version = 3
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    description = "Live streams from the Free TV github repository. Forked from the Free-TV plugin in the ItalianProvider repo"
-    authors = listOf("Gian-Fr","Adippe","doGior")
+    description = "TV live da TV github repository"
+    authors = listOf("DieGon")
 
     /**
     * Status int as the following:
