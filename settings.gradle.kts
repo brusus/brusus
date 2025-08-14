@@ -11,13 +11,13 @@ include(
     "Arte",
     "CalcioStreaming",
     "CB01",
-    "CorsaroNero",
-    "DaddyLive",
+//    "CorsaroNero",
+//    "DaddyLive",
     "Huhu",
 //    "OnlineSerieTV",
     "StreamingCommunity",
-    "TV",
+    "TV"
 //    "ToonItalia",
-    "Torrentio"
+//    "Torrentio"
 //    "YouTube"
 )
