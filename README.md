@@ -18,7 +18,7 @@ Questi sono i plugin disponibili al momento
 |--------------------|:-----------------------------------:|:----------:|:---------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | Altadefinizione    | Film, SerieTV, Cartoni, Documentari |    🇮🇹    |        ✅        | ⚠️ Se non funziona, prova a cambiare DNS (es:dns.google.com) |
 | AnimeUnity         | Anime                               |    🇮🇹    |        ✅        | |
-| AnimeWorld         | Anime                               |    🇮🇹    |        ✅        | 🚧⚒️ |
+| AnimeWorld         | Anime                               |    🇮🇹    |        ✅        |  |
 | Arte               | Documentari                         |    🇮🇹    |        ✅⚠️      | Potrebbe non funzionare a volte |
 | CB01               | Film, SerieTV                       |    🇮🇹    |        ❌        | Non fixabile al momento |
 | CalcioStreaming    | Sport                               |    🇮🇹    |        ✅        | |
