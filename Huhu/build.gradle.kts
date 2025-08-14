@@ -1,12 +1,12 @@
 // use an integer for version numbers
-version = 3
+version = 4
 
 
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    description = "TV channels from huhu.to"
-    authors = listOf("doGior")
+    description = "Canali TV da Huhu"
+    authors = listOf("DieGon")
 
     /**
     * Status int as the following:
