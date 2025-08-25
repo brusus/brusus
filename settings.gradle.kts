@@ -16,8 +16,8 @@ include(
     "Huhu",
 //    "OnlineSerieTV",
     "StreamingCommunity",
-    "TV"
+    "TV",
 //    "ToonItalia",
-//    "Torrentio"
+    "Torrentio"
 //    "YouTube"
 )
