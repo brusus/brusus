@@ -8,7 +8,7 @@ include(
     "AltaDefinizione",
      "AnimeUnity",
     "AnimeWorld",
-    "AnimeSaturn"
+    "AnimeSaturn",
     "Arte",
     "CalcioStreaming",
     "CB01",
