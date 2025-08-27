@@ -46,7 +46,7 @@ class StreamingCommunity : MainAPI() {
             "X-Inertia-Version" to inertiaVersion,
             "X-Requested-With" to "XMLHttpRequest",
         ).toMutableMap()
-        val mainUrl = "streamingunity.co/it"
+        val mainUrl = "streamingcommunityz.chat/it"
         var name = "StreamingCommunity"
     }
 
