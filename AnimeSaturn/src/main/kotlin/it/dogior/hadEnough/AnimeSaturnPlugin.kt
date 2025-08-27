@@ -1,13 +1,11 @@
-@file:Suppress("unused")
-
-package it.brusus.animesaturn
+package it.dogior.hadEnough
 
 import android.content.Context
 import com.lagradost.cloudstream3.plugins.Plugin
-import com.lagradost.cloudstream3.plugins.PluginManager.registerMainAPI
+import com.lagradost.cloudstream3.plugins.PluginManager
 
-class AnimeSaturnPlugin : Plugin() {
+class PluginAnimeSaturn : Plugin() {
     override fun load(context: Context) {
-        registerMainAPI(AnimeSaturn())
+        PluginManager.registerMainAPI(AnimeSaturn())
     }
 }
