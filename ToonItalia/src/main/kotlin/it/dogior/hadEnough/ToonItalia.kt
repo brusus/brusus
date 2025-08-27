@@ -30,7 +30,7 @@ import org.jsoup.nodes.Element
 
 class ToonItalia :
     MainAPI() { // all providers must be an intstance of MainAPI
-    override var mainUrl = "https://toonitalia.green/"
+    override var mainUrl = "https://toonitalia.xyz/"
     override var name = "ToonItalia"
     override var lang = "it"
     override val supportedTypes =
